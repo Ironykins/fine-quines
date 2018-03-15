@@ -1,1 +1,1 @@
-do putStrLn $ (\x -> x++(show x)) "do putStrLn $ (\\x -> x++(show x)) "
+main = do putStrLn $ (\x -> x++(show x)) "main = do putStrLn $ (\\x -> x++(show x)) "
