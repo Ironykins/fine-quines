@@ -1,0 +1,9 @@
+A Quine written in Brainfuck
+
+Brainfuck is an esoteric and confusing (but fully functional) programming language, known for its inappropriate name and unreadable code. It is a massive running joke among programmers. 
+
+Brainfuck programs are brain teasers, and proof that immense complexity can stem from very simple rules. This language's primary use is in earning programmer street cred.
+
+Programming in Brainfuck is an exercise in frustration, organization, and short-term memory. Brainfuck programs are written using only eight symbols: <>+=,.[]
+
+This Quine was written by Brian Raiter (http://www.nyx.net/~gthompso/self_brainf.txt)

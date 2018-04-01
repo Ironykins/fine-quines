@@ -1,0 +1,5 @@
+A Quine written in Common Lisp
+
+Lisp (short for List-Processor) is a classic hacker-language. It has been around in some form or another since the 1950s, and has many competing dialects, implementations, and ideologies.
+
+This Quine was written in Common Lisp by Chris Hruska (http://www.nyx.net/~gthompso/self_lisp.txt)

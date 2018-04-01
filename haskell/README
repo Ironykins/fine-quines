@@ -1,0 +1,7 @@
+A Quine written in Haskell
+
+The grammatical structure of a Haskell program is very different from that of most other programming languages.
+
+Haskell programmers are usually huge nerds and will talk at length about things like lambda calculus.
+
+This Quine was written by Konrad Aust

@@ -1,0 +1,9 @@
+A Quine written in C
+
+C is one of the oldest, most widely used, and most loved and hated programming languages in existence. Most operating systems are written primarily in C.  
+
+It is powerful, nuanced, and well understood. C programs are blazingly fast and often require a lot of hardware-level knowledge to properly debug.
+
+Programming in C is as beautiful and terrible as freedom itself. The programmer is assumed to be an expert, and is responsible for anything and everything that can go wrong.
+
+The Author of this Quine is Unknown. I took it from The Jargon File's page on Quines (http://www.catb.org/jargon/html/Q/quine.html)
