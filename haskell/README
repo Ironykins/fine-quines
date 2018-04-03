@@ -1,7 +1,9 @@
 A Quine written in Haskell
 
-The grammatical structure of a Haskell program is very different from that of most other programming languages.
+Haskell is a functional language, so its grammatical structure is very different from that of most other programming languages.
 
-Haskell programmers are usually huge nerds and will talk at length about things like lambda calculus.
+Haskell programmers are usually huge nerds and will talk at length about things like lambda calculus. Programming in Haskell requires a mind that is very good at breaking problems up into small, discrete parts with well defined input and output.
 
 This Quine was written by Konrad Aust
+
+And now we begin:

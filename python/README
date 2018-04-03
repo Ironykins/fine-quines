@@ -1,5 +1,7 @@
 A Quine written in Python
 
-Python (Named after the famous comedians of Monty Python) is a general-purpose language that aims to be portable, readable, and programmer-friendly.
+Python (Named after the famous comedians of Monty Python) is a general-purpose language that aims to be portable, readable, and programmer-friendly. It is an excellent language for learning to program and for automating simple tasks, but it is also suitable for more complex and involved projects.
 
 This Quine was written by Frank Stajano (http://www.nyx.net/~gthompso/self_pyth.txt)
+
+And now we begin:
