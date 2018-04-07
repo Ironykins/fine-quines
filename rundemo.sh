@@ -1,7 +1,7 @@
 while true
 do
-  asciinema play -i 2 write-readme.cast
-  asciinema play -i 2 print-readme.cast
+  asciinema play -i 2 -s 3 /home/pi/fine-quines/write-readme.cast
+  asciinema play -i 2 -s 3 /home/pi/fine-quines/print-readme.cast
   sleep 3
   
   for f in /home/pi/fine-quines/casts/*.cast
